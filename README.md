@@ -1,5 +1,6 @@
 <h1 align="center">Bonjour 🤝, je suis Matthieu Bonjour 🙎‍♂️</h1>
-<h2 align="center">🖥 Je suis actuellement en formation avec OpenClassrooms ! 🖥</h2>
+<h2 align="center">🖥 J'ai terminé ma formation avec OpenClassrooms ! 🖥</h2>
+<p align="center">Retrouvez tous les projets que j'ai réalisés lors de ma formation :</p>
 
 <!--
 **Matthieu83600/Matthieu83600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
