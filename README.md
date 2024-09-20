@@ -1,4 +1,8 @@
 <h1 align="center">Bonjour 🤝, je suis Matthieu Bonjour 🙎‍♂️</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+</div>
+<br>
 <h2 align="center">🖥 Ma formation Intégrateur Web avec OpenClassrooms 🖥</h2>
 <p>Retrouvez tous les projets que j'ai réalisés lors de ma formation :</p>
 <ul>
@@ -36,6 +40,12 @@
     <a href="https://github.com/Matthieu83600/Portfolio" target="blank">Projet 12 : Mon portfolio<a/>
   </li>
 </ul>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Projets React <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"></h2>
+    <ul>
+      <li>
+        <a href="https://github.com/Matthieu83600/TV-Show-Adviser" target="blank">TV Show Adviser<a/>
+      </li>
+    </ul>
 <h2 align="center">🧩 Autres 🧩</h2>
 <ul>
   <li>
