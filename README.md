@@ -4,42 +4,21 @@
 </div>
 <br>
 <h2 align="center">🖥 Ma formation Intégrateur Web avec OpenClassrooms 🖥</h2>
-<p>Retrouvez tous les projets que j'ai réalisés lors de ma formation :</p>
-<ul>
-  <li>
-    <a href="https://github.com/Matthieu83600/Riding-Cities" target="blank">Projet 2 : Riding Cities<a/>
-  </li>
-      <li>
-    <a href="https://github.com/Matthieu83600/Booki" target="blank">Projet 3 : Booki<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/OhMyFood" target="blank">Projet 4 : Ohmyfood<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Print-It" target="blank">Projet 5 : Printit<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Portfolio-Sophie-Bluel" target="blank">Projet 6 : Portfolio de Sophie Bluel<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Menu-Maker" target="blank">Projet 7 : Menu Maker<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Kasa" target="blank">Projet 8 : Kasa<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Nina-Carducci" target="blank">Projet 9 : Nina Carducci<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/724events" target="blank">Projet 10 : 724events<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/ArgentBank-FrontEnd" target="blank">Projet 11 : ArgentBank<a/>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Portfolio" target="blank">Projet 12 : Mon portfolio<a/>
-  </li>
-</ul>
+
+| Numéro du Projet | Nom du Projet                         | Lien GitHub                                                   |
+|------------------|---------------------------------------|---------------------------------------------------------------|
+| Projet 2         | Riding Cities                         | [Riding Cities](https://github.com/Matthieu83600/Riding-Cities)  |
+| Projet 3         | Booki                                 | [Booki](https://github.com/Matthieu83600/Booki)          |
+| Projet 4         | Ohmyfood                              | [Ohmyfood](https://github.com/Matthieu83600/OhMyFood)       |
+| Projet 5         | Printit                               | [Printit](https://github.com/Matthieu83600/Print-It)       |
+| Projet 6         | Portfolio de Sophie Bluel             | [Portfolio de Sophie Bluel](https://github.com/Matthieu83600/Portfolio-Sophie-Bluel) |
+| Projet 7         | Menu Maker                            | [Menu Maker](https://github.com/Matthieu83600/Menu-Maker)     |
+| Projet 8         | Kasa                                  | [Kasa](https://github.com/Matthieu83600/Kasa)           |
+| Projet 9         | Nina Carducci                         | [Nina Carducci](https://github.com/Matthieu83600/Nina-Carducci)  |
+| Projet 10        | 724events                             | [724events](https://github.com/Matthieu83600/724events)      |
+| Projet 11        | ArgentBank                            | [ArgentBank](https://github.com/Matthieu83600/ArgentBank-FrontEnd) |
+| Projet 12        | Mon portfolio                         | [Mon portfolio](https://github.com/Matthieu83600/Portfolio)      |
+
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Projets React <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"></h2>
     <ul>
       <li>
