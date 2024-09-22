@@ -26,12 +26,8 @@
 | Expense Tracker                       | [Expense Tracker](https://github.com/Matthieu83600/React-expense-tracker) |
 | TV Show Adviser                       | [TV Show Adviser](https://github.com/Matthieu83600/TV-Show-Adviser) |                                                |
 
-<h2 align="center">🧩 Autres 🧩</h2>
-<ul>
-  <li>
-    <a href="https://github.com/Matthieu83600/Codingame" target="blank">Codingame</a>
-  </li>
-  <li>
-    <a href="https://github.com/Matthieu83600/Hackerrank" target="blank">Hackerrank</a>
-  </li>
-</ul>
+<h2 align="center"> Nextjs </h2>
+
+| Nom du Projet                         | Lien GitHub                                                   |
+|---------------------------------------|---------------------------------------------------------------|
+| Dashboard                             | [Dashboard]([https://github.com/Matthieu83600/React-expense-tracker](https://github.com/Matthieu83600/Nextjs-dashboard)) |
