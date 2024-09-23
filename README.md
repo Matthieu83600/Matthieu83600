@@ -24,9 +24,10 @@
 | Nom du Projet                         | Lien GitHub                                                   |
 |---------------------------------------|---------------------------------------------------------------|
 | Expense Tracker                       | [Expense Tracker](https://github.com/Matthieu83600/React-expense-tracker) |
-| TV Show Adviser                       | [TV Show Adviser](https://github.com/Matthieu83600/TV-Show-Adviser) |                                               
+| Notes Manager                         | [Notes Manager](https://github.com/Matthieu83600/React-notes-manager) |
+| TV Show Adviser                       | [TV Show Adviser](https://github.com/Matthieu83600/TV-Show-Adviser) |   
 
-<h2 align="center"> Nextjs </h2>
+<h2 align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="25" /> Projets Nextjs <img src="https://skillicons.dev/icons?i=nextjs" width="25" /></h2>
 
 | Nom du Projet                         | Lien GitHub                                                   |
 |---------------------------------------|---------------------------------------------------------------|
