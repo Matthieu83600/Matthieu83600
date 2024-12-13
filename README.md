@@ -18,6 +18,7 @@
 | Projet 10        | 724events                             | [724events](https://github.com/Matthieu83600/724events)      |
 | Projet 11        | ArgentBank                            | [ArgentBank](https://github.com/Matthieu83600/ArgentBank-FrontEnd) |
 | Projet 12        | Mon portfolio                         | [Mon portfolio](https://github.com/Matthieu83600/Portfolio)      |
+|------------------|---------------------------------------|---------------------------------------------------------------|
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"> Projets React <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="25"></h2>
 
@@ -26,10 +27,13 @@
 | Expense Tracker                       | [Expense Tracker](https://github.com/Matthieu83600/React-expense-tracker) |
 | Notes Manager                         | [Notes Manager](https://github.com/Matthieu83600/React-notes-manager) |
 | TV Show Adviser                       | [TV Show Adviser](https://github.com/Matthieu83600/TV-Show-Adviser) |
-| Rand'images                           | [Rand'images](https://github.com/Matthieu83600/React-rand-images) |   
+| Rand'images                           | [Rand'images](https://github.com/Matthieu83600/React-rand-images) |
+|---------------------------------------|---------------------------------------------------------------|
 
 <h2 align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="25" /> Projets Nextjs <img src="https://skillicons.dev/icons?i=nextjs" width="25" /></h2>
 
 | Nom du Projet                         | Lien GitHub                                                   |
 |---------------------------------------|---------------------------------------------------------------|
 | Dashboard                             | [Nextjs Dashboard](https://github.com/Matthieu83600/Nextjs-dashboard) |
+| Portfolio                             | [Portfolio](https://github.com/Matthieu83600/portfolio-nextjs) |
+|---------------------------------------|---------------------------------------------------------------|
